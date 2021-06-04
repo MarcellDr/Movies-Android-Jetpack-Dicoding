@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RatingBar">
+        <item name="colorControlActivated">#FFAB40</item>
+        <item name="colorControlNormal">#939393</item>
+    </style>
+</resources>

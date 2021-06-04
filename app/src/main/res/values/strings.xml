@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CinemaZ</string>
+    <string name="movies">Movies</string>
+    <string name="tv_series">TV Series</string>
+    <string name="favorite">Favorite</string>
+    <string name="imdb">IMDB</string>
+    <string name="todo">TODO</string>
+    <string name="max_rating">/ 10</string>
+    <string name="trending">Trending</string>
+</resources>
